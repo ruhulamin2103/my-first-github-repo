@@ -1,0 +1,18 @@
+/* Text Alignment */
+/* Text Color */
+h1{
+    text-align: center;
+    color: rgb(8, 110, 243);
+}
+/* Font Size */
+p{
+    font-size: 10px;
+}
+/* Font Style */
+li{
+    font-style: oblique;
+}
+/* Font Family */
+.pad{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

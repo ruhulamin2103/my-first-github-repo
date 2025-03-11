@@ -1,0 +1,14 @@
+.container1{
+    background-color: orange;
+    background-image: url(/Images/beautiful-day-sunset-deer-minimal-8k-9z.jpg);
+    background-repeat: space;
+    background-position: 20px;
+    background-size: cover;
+}
+.container2{
+    background-color: blueviolet;
+    background-image: url(/Images/cyber-city-3840x2160.jpg);
+    background-repeat: round;
+    background-position: right;
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+h1{
+    display: none;
+}
+p{
+    visibility: hidden;
+}
+img{
+    display: inline;
+}
+div{
+    display: block;
+}
+button{
+    display: inline-block;
+}
